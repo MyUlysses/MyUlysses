@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MyUlysses on GitHub, Jeremy in our non-digital world. 
+- 👋 Hi, I’m @MyUlysses on GitHub, Jeremy everywhere else. 
 - 👀 I’m a life insurance product manager. I am very interested in data science and exploring creative new ways to use and understand the data that surrounds us.
 - 🌱 I’m currently learning Spanish with my son. I studied it for a few years in college but am working on becoming conversational. 
 - 📫 How to reach me: jbottor@wgu.edu
